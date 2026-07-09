@@ -1,5 +1,6 @@
 # Understanding Version Control, Git, and GitHub Fundamentals
 
+
 ## 1. What is Version Control and Why is it Important?
 
 Version control is a system that keeps track of changes made to files, especially source code, over time. It allows developers to save different versions of a project so they can review previous changes, restore older versions if needed, and understand who made specific changes.
