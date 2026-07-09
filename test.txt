@@ -9,6 +9,10 @@ Version control is important because it:
 * Prevents accidental loss of code.
 * Makes it easy to undo mistakes.
 * Allows multiple developers to work on the same project without overwriting each other's work.
+
+
+
+
 * Maintains a complete history of changes for future reference.
 * Improves collaboration and project management.
 
