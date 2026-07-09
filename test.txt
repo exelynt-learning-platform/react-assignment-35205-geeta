@@ -49,16 +49,4 @@ In simple terms:
 * Git is the software used to manage version control.
 * GitHub is an online service that stores Git repositories and helps developers collaborate.
 
-## 5. Centralized vs Distributed Version Control Systems
-
-| Centralized Version Control (CVCS)                    | Distributed Version Control (DVCS)                                  |
-| ----------------------------------------------------- | ------------------------------------------------------------------- |
-| Uses one central server to store the project.         | Every developer has a complete copy of the repository.              |
-| Requires a network connection for most operations.    | Most operations can be performed offline.                           |
-| If the central server fails, work may be interrupted. | The project can still be recovered from any developer's local copy. |
-| Collaboration depends on the central server.          | Developers can work independently and synchronize later.            |
-| Examples: Subversion (SVN), CVS                       | Examples: Git, Mercurial                                            |
-
-**Conclusion**
-
-Version control is an essential part of modern software development because it helps track changes, supports teamwork, and protects project history. Git is one of the most popular distributed version control systems due to its speed, flexibility, and reliability. GitHub complements Git by providing an online platform where developers can store repositories and collaborate efficiently. Compared to centralized systems, distributed version control offers better reliability, flexibility, and offline support, making it the preferred choice for most software development projects today.
+version control offers better reliability, flexibility, and offline support, making it the preferred choice for most software development projects today.
